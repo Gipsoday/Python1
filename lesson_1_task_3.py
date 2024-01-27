@@ -1,2 +1,2 @@
-user_name = ("Дима")
-print("Привет, "  + user_name)
+user_name = input("Привет, ")
+print(user_name, type(user_name))
