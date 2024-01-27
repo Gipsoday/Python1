@@ -1,4 +1,3 @@
-def input(first_name, last_name):
-    print("Вас зовут " , first_name ,last_name)
-
-input("Дмитрий", "Ященко")
+first_name = input()
+last_name = input()
+print("Вас зовут: ", first_name, last_name)
